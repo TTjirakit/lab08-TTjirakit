@@ -42,6 +42,7 @@ function App() {
             <div className="m-2 p-2">
               <form className="row">
                 <div className="col-10">
+                  <h2>Jeerakit Attaittiruj</h2>
                   <input
                     className="form-control"
                     type="text"
